@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinlight_docs=self.webpackChunkinlight_docs||[]).push([[535],{5641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Blog init","permalink":"/blog/blog-init"}]}')}}]);

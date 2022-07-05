@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://inlightmeditation.com/blog</id>
+    <title>InLight Meditation Blog</title>
+    <updated>2022-07-04T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://inlightmeditation.com/blog"/>
+    <subtitle>InLight Meditation Blog</subtitle>
+    <icon>https://inlightmeditation.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Blog init]]></title>
+        <id>blog-init</id>
+        <link href="https://inlightmeditation.com/blog/blog-init"/>
+        <updated>2022-07-04T00:00:00.000Z</updated>
+        <author>
+            <name>Konrad Gnat</name>
+            <uri>https://github.com/kon-rad</uri>
+        </author>
+        <category label="background" term="background"/>
+        <category label="inlight" term="inlight"/>
+    </entry>
+</feed>
