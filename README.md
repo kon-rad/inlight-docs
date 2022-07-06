@@ -1,2 +1,2 @@
-# InLight Doccs
+# InLight Docs
 
